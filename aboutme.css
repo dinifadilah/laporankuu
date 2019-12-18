@@ -1,0 +1,33 @@
+.diniii{
+    color: black;
+    background-color: rgba(245, 245, 245, 0.548);
+    margin-top: -50px;
+    width: 80%;
+    padding: 200px 80px;
+    font-family: helvetica;
+    font-size: 10px;
+}
+body{
+    background-image: url(images.jpg);
+    width: 80%;
+    background-color: rgba(245, 245, 245, 0.548);
+    margin: auto;
+    padding: 120px 50px;
+}
+.back{
+    font-family: helvetica;
+    color: rgb(187, 83, 104);
+    text-align: center;
+    color: black;
+    background: rgb(95, 95, 89);
+    width: 140px;
+    height: 40px;
+    border-radius: 4px;
+    border: none;
+    padding-top: -5px;
+    margin: auto;
+    margin-top: 10px;
+}
+.back:hover{
+    background: rgb(182, 181, 147);
+}
